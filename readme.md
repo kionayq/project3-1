@@ -25,7 +25,7 @@ For the final project, you'll be designing and building a web app of your choice
 
   - __Clean And Readable Code__. The instructor should be able to read and follow your code easily.  Maintain clean and readable code including: consistent indentation, code commenting and use of proper and consistent naming conventions.
 
-  - __Object Oriented and/or Functional__. Implement function closures, keep code modular, maintain a separation of concerns, only put code on the global scope when absolutely necessary, use prototypical inheritance.
+  - __Object Oriented and/or Functional__. Implement function closures, keep code modular, maintain a separation of concerns, only put code on the global scope when absolutely necessary, use prototypical or class inheritance.
 
 ---
 
